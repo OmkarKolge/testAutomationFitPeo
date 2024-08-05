@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-05T11:55:30 IST" name="com.test.FitpeoTest" finished-at="2024-08-05T11:56:15 IST" duration-ms="45318">
+    <groups>
+    </groups>
+    <test started-at="2024-08-05T11:55:30 IST" name="Command line test" finished-at="2024-08-05T11:56:15 IST" duration-ms="45318">
+      <class name="com.test.FitpeoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:30 IST" name="setUp" finished-at="2024-08-05T11:55:32 IST" duration-ms="2515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="NavigateToFitPeoPage()[pri:1, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:32 IST" name="NavigateToFitPeoPage" finished-at="2024-08-05T11:55:44 IST" duration-ms="11611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToFitPeoPage -->
+        <test-method signature="navigateTotheRevenueCalculator()[pri:2, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:44 IST" name="navigateTotheRevenueCalculator" finished-at="2024-08-05T11:55:47 IST" duration-ms="3602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTotheRevenueCalculator -->
+        <test-method signature="scrollDownTotheSlider()[pri:3, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:47 IST" name="scrollDownTotheSlider" finished-at="2024-08-05T11:55:47 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownTotheSlider -->
+        <test-method signature="adjustSlider()[pri:4, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:47 IST" name="adjustSlider" finished-at="2024-08-05T11:55:51 IST" duration-ms="3699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSlider -->
+        <test-method signature="insertValue()[pri:5, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:51 IST" name="insertValue" finished-at="2024-08-05T11:55:58 IST" duration-ms="6622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertValue -->
+        <test-method signature="validateValue()[pri:6, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:58 IST" name="validateValue" finished-at="2024-08-05T11:55:58 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateValue -->
+        <test-method signature="selectCPTCode()[pri:7, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:55:58 IST" name="selectCPTCode" finished-at="2024-08-05T11:56:11 IST" duration-ms="13104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCPTCode -->
+        <test-method signature="totalRecurringReimbursement()[pri:8, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:56:11 IST" name="totalRecurringReimbursement" finished-at="2024-08-05T11:56:14 IST" duration-ms="3109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalRecurringReimbursement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.FitpeoTest@3943a2be]" started-at="2024-08-05T11:56:14 IST" name="tearDown" finished-at="2024-08-05T11:56:15 IST" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.FitpeoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.FitpeoTest -->
+</testng-results>
